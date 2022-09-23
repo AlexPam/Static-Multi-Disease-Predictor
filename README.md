@@ -1,0 +1,1 @@
+# Static-Multi-Disease-Predictor
